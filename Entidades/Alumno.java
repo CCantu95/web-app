@@ -22,6 +22,7 @@ public class Alumno{
   public void setName(String n){
     nombre = n;
   }
+
   public String getApellidos(){
     return apellidos;
   }
@@ -70,4 +71,5 @@ public class Alumno{
   public void setUnidadesAcreditadas(int ua){
     unidades_acreditadas = ua;
   }
+  
 }
